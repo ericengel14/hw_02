@@ -9,6 +9,10 @@
 	compile using g++ -o exercise32.exe ex32.cpp aI.cpp binSearch.cpp seqSearch.cpp rNG.cpp
 */
 
+
+
+
+
 #include <iostream>
 #include <stdlib.h>
 #include "exercise32.h"
